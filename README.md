@@ -1,2 +1,1 @@
-# gole-nogi-wioslem-s-ip-grabber
-trzymaj ruter cwelu
+# gole-nogi-wioslem hammer script
